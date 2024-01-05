@@ -7,8 +7,6 @@
 #           SupportBot created by Emerald Services
 #           Installed with MIT License
 #
-#           Discord Support: https://emeraldsrv.dev/discord
-#           Community Resources: https://emeraldsrv.dev/resources
 
 SupportBot_Version: "v7.7.3"
 
@@ -17,7 +15,7 @@ SupportBot_Version: "v7.7.3"
 # -------------------------
 
 Name: "LunaMc Bot"
-Token: ""
+Token: "MTE5MjU4MTM5NDUyMjcxODI1OA.GVXu2U.DbYSoLlh3tJ-MyFxSYMcYCrKGLo-egN-mQflC4"
 
 # -------------------------
 #  Activity Configuration
@@ -46,11 +44,11 @@ WarningColour: "#fca117"
 #  Role Configuration
 # -------------------------
 
-AutoRole: false
-JoinRole: "SupportBot Member"
+AutoRole: true
+JoinRole: "Default"
 
-Staff: "SupportBot Staff"
-Admin: "SupportBot Admin"
+Staff: "〢Pre Staff"
+Admin: "Lunabot Admin"
 TicketBlackListRole: "Blacklisted"
 
 # ----------------------------
@@ -108,7 +106,7 @@ InfoColour: "#AB30DA"
 #  Suggestions Configuration
 # ----------------------------
 
-SuggestionChannel: "sugerencias-uwu"
+SuggestionChannel: "📝┃sugerencias"
 SuggestionUpvote: "✅"
 SuggestionDownvote: "❌"
 
@@ -130,8 +128,8 @@ TranslateLogChannel: "📚┃logs-only"
 
 TicketPrefix: "ticket-" # The prefix for ticket channel names
 
-TicketLog: "ticket-data"
-TranscriptLog: "ticket-data"
+TicketLog: "📚┃logs-only"
+TranscriptLog: "📚┃logs-only"
 
 DMTranscripts: true
 TranscriptTitle: "Ticket Transcript"
