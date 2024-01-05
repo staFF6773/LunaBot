@@ -7,8 +7,6 @@
 #           SupportBot created by Emerald Services
 #           Installed with MIT License
 #
-#           Discord Support: https://emeraldsrv.dev/discord
-#           Community Resources: https://emeraldsrv.dev/resources
 
 # -------------------------------
 #   Command Name Configuration
@@ -31,15 +29,15 @@ UserInfoCommand: "userinfo"
 #   Command Description Configuration
 # ---------------------------------------
 
-BlacklistDesc: "Blacklist a user from creating Tickets."
-TicketAddDesc: "Add a user to a support ticket."
-TicketRemoveDesc: "Remove a user from a support ticket."
-TranslateCommandDesc: "Translates the language provided, along with the abbreviation (2 char) long language code"
-OpenTicketDesc: "Open a new support ticket."
-CloseTicketDesc: "Close your support ticket."
-InfoCommandDesc: "Get information about the brand."
+BlacklistDesc: "Poner a un usuario en la lista negra para que no pueda crear Tickets."
+TicketAddDesc: "Añadir un usuario a un ticket de soporte."
+TicketRemoveDesc: "Eliminar a un usuario de un ticket de soporte."
+TranslateCommandDesc: "Traduce el idioma proporcionado, junto con la abreviatura (2 caracteres) código largo del idioma"
+OpenTicketDesc: "Abrir un nuevo ticket de soporte."
+CloseTicketDesc: "Cierra tu ticket de soporte."
+InfoCommandDesc: "La informacion del servidor"
 PingCommandDesc: "Pong!"
-HelpCommandDesc: "Get a list of all the commands."
-EmbedCommandDesc: "Send a message as an embed."
-SuggestCommandDesc: "Suggest a feature for the server."
-UserInfoCommandDesc: "Get info about a user."
+HelpCommandDesc: "Obtener una lista de todos los comandos."
+EmbedCommandDesc: "Enviar un mensaje como Embed."
+SuggestCommandDesc: "Sugerir una función para el servidor."
+UserInfoCommandDesc: "Obtener información sobre un usuario."
